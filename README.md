@@ -1,6 +1,6 @@
 # vue-home-crm
 
-# Project stack: Vue/Vuex + materialize-css + firebase
+## Project stack: Vue/Vuex + materialize-css + firebase
 
 ## Project setup
 ```
