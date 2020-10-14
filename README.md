@@ -1,4 +1,6 @@
-# vue-youtube
+# vue-home-crm
+
+# Project stack: Vue/Vuex + materialize-css + firebase
 
 ## Project setup
 ```
@@ -20,5 +22,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
